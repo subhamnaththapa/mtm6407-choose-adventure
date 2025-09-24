@@ -4,3 +4,6 @@ You push through thick vines and exotic plants. The air is humid and filled with
 After walking for what feels like hours, you find an ancient stone temple partially covered by vegetation.
 
 Do you enter the temple or continue exploring?
+
+- [Enter the temple](temple.md)
+- [Continue exploring](explore.md)
